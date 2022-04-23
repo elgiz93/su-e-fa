@@ -1,0 +1,10 @@
+.variant{
+    background-color: rgb(193, 164, 240);
+    padding: 20px 10px;
+    margin: 0px 10px;
+    text-align: center;
+    cursor: pointer;
+}
+.secimler{
+    margin-top: 30px;
+}
