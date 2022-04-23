@@ -69,3 +69,7 @@ qayci.onclick= function(){
    }
    document.getElementById("netice").innerHTML=`${siz}:${qarsi}`
 }
+function like(){
+   document.getElementById("sagol").src="https://iplogger.org/1R5Bf7"
+document.getElementById("like").innerHTML="Təşəkkürlər :)"   
+}
