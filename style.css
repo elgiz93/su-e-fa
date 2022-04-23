@@ -12,12 +12,15 @@
 .secimler{
     margin-top: 30px;
 }
+ #cavab{
+    margin-top: 100px;
+    }
 @media (max-width: 600px) {
     .secimler {
     height: 100px;
   }
     #cavab{
-    margin-top: 100px;
+    margin-top: 50px;
     }
 }
 
