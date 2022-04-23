@@ -15,12 +15,22 @@
  #cavab{
     margin-top: 70px;
     }
+.like{
+background-color: rgb(69, 171, 74);
+padding: 20px;
+cursor: pointer;
+text-align: center;
+    margin-top: 30px
+}
 @media (max-width: 600px) {
     .secimler {
     height: 100px;
   }
     #cavab{
     margin-top: 30px;
+    }
+     .like{
+      margin-top: 10px;
     }
 }
 
